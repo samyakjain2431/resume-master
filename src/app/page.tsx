@@ -10,7 +10,7 @@ export default function Home() {
         <p className="text-gray-400 text-sm">
           check out the full code:{" "}
           <a 
-            href="https://github.com/yourusername/resume-master" 
+            href="https://github.com/samyakjain2431/resume-master" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-white hover:text-gray-300 underline underline-offset-4 transition-colors"
